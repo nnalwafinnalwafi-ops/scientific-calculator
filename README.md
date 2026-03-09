@@ -7,6 +7,5 @@ A modern scientific calculator built with Flutter.
 - sin, cos, tan
 - square root
 - Clean user interface
-
 ## Technology
 Built using Flutter.
