@@ -10,3 +10,4 @@ A modern scientific calculator built with Flutter.
 
 ## Technology
 Built using Flutter.
+![Scientific Calculator](calculator.png)
