@@ -1,2 +1,12 @@
-# scientific-calculator
-Open-source scientific calculator for Android and iOS built with Flutter. Supports advanced math functions, equation solving, graph plotting, and history.
+Add scientific calculator code# Scientific Calculator
+
+A modern scientific calculator built with Flutter.
+
+## Features
+- Basic calculations
+- sin, cos, tan
+- square root
+- Clean user interface
+
+## Technology
+Built using Flutter.
